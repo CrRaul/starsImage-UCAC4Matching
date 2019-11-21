@@ -1,2 +1,2 @@
 # starsImage-UCAC4Matching
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](output_GCL7LJ.gif)
